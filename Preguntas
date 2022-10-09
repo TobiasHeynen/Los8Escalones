@@ -1,0 +1,79 @@
+{
+  "1": "¿En que año se hundio el Titanic?",
+  "respuestas1": {
+    "OpcionA": 1592,
+    "OpcionB": 1912,
+    "OpcionC": 2001,
+    "OpcionD": 2002
+  },
+  "2": "¿Cual es la capital de Portugal?",
+  "respuestas2": {
+    "OpcionA": "Madrid",
+    "OpcionB": "Lisboa",
+    "OpcionC": "Copenhaugue",
+    "OpcionD": "Portugal"
+  },
+  "3": "¿Cual es el símbolo químico de la Plata?",
+  "respuestas3": {
+    "OpcionA": "Cu",
+    "OpcionB": "Ag",
+    "OpcionC": "Mg",
+    "OpcionD": "Pl"
+  },
+  "4": "¿Cuántas franjas tiene la bandera de Estados Unidos?",
+  "respuestas4": {
+    "OpcionA": 20,
+    "OpcionB": 15,
+    "OpcionC": 13,
+    "OpcionD": 16
+  },
+  "5": "¿Cuántos días le toma a la tierra dar una vuelta a la órbita del sol?",
+  "respuestas5": {
+    "OpcionA": 365,
+    "OpcionB": 200,
+    "OpcionC": 30,
+    "OpcionD": 1
+  },
+  "6": "¿Cuál es el país más pequeño del mundo?",
+  "respuestas6": {
+    "OpcionA": "Andorra",
+    "OpcionB": "Vaticano",
+    "OpcionC": "Chipre",
+    "OpcionD": "Belice"
+  },
+  "7": "¿Cuál es el río más largo del mundo?",
+  "respuestas7": {
+    "OpcionA": "Tamesis",
+    "OpcionB": "Rio de la Plata",
+    "OpcionC": "Nilo",
+    "OpcionD": "Amazonas"
+  },
+  "8": "¿Qué conductor de la Formula 1 ha ganado más campeonatos?",
+  "respuestas8": {
+    "OpcionA": "Michael Schumacher",
+    "OpcionB": "Ayrton Senna",
+    "OpcionC": "Carlos Reutemann",
+    "OpcionD": "Lewis Hamilton"
+  },
+  "9": "¿¿Cuántas respiraciones toma el cuerpo humano diariamente?",
+  "respuestas9": {
+    "OpcionA": 1800,
+    "OpcionB": 21000,
+    "OpcionC": 2500,
+    "OpcionD": 300
+  },
+  "10": "¿Dónde se celebraron los primeros Juegos Olímpicos modernos?",
+  "respuestas10": {
+    "OpcionA": "Atenas",
+    "OpcionB": "Babilonia",
+    "OpcionC": "Egipto",
+    "OpcionD": "Turquía"
+  },
+  "11": "¿Qué cantante fue conocido, entre otras cosas, como El rey del pop?",
+  "respuestas11": {
+    "OpcionA": "Michael Jackson",
+    "OpcionB": "Bob Dylan",
+    "OpcionC": "Bb E King",
+    "OpcionD": "Elton Jhon"
+  }
+}
